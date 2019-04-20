@@ -17,7 +17,7 @@ from dog import Dog
 # the Dog is the Class in the dog.py file
 # dog is a file called dog.py
 
-# an object is needed to me made or instantiated
+# an object is needed to be made or instantiated
 my_dog = Dog('Tory', 8)  # this is the instance and is the object that has attributes name and age
 
 # needed the values name (Tory) and age(8)
